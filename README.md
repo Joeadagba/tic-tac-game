@@ -1,2 +1,3 @@
 # tic-tac-game
-My first React app
+This is my first React app. 
+This is a TIC TAC TOE GAME
